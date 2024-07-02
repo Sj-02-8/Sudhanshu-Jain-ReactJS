@@ -1,0 +1,94 @@
+<html>
+<head>
+	<style>
+		body{
+			background-color: black;
+		}
+		.a,.b,.c{
+			height:47%;
+			width:15%;
+			margin-bottom:25px;
+		  }
+		 .c
+		 {
+		 	position:absolute;
+			top:50%;
+			left:50%;
+			transform: translate(-50%,-50%);
+		 } 
+		 .a
+		 {
+		 	position:absolute;
+			top:50%;
+			left:70%;
+			transform: translate(-50%,-50%);
+		 }
+		 .b
+		 {
+		 	position:absolute;
+			top:50%;
+			left:30%;
+			transform: translate(-50%,-50%);
+		 }
+		 .a:hover
+		 {
+		 	height:60%;
+		 	width: 18%;
+		 	transition:0.5s ease;
+		 	box-shadow: 0 4px 8px 0 rgb(255,0,0), 0 6px 20px 0 	rgb(255,0,0);
+		 }
+		 .b:hover
+		 {
+		 	height:60%;
+		 	width: 18%;
+		 	transition:0.5s ease;
+		 	box-shadow: 0 4px 8px 0 rgb(255,0,0), 0 6px 20px 0 	rgb(255,0,0);
+		 }
+		 .c:hover
+		 {
+		 	height:60%;
+		 	width: 18%;
+		 	transition:0.5s ease;
+		 	box-shadow: 0 4px 8px 0 rgb(255,0,0), 0 6px 20px 0 	rgb(255,0,0);
+		 }
+		 #z
+		 {
+		 	font-family: cursive;
+		    text-decoration: none;
+		 	color:white;
+		 	position:absolute;
+			top:5%;
+			right:5%;
+			transform: translate(-50%,-50%);	
+		 }
+		 a:link
+		 {
+		 	text-decoration: none;
+		 	color:white;
+		 	float:right;
+
+		 }
+		 a::after
+		 {
+		 	content:'';
+		 	width:0%;
+		 	height:2px;
+		 	background:red;
+		 	display:block;
+		 	margin:auto;
+		 	transition:0.5s;
+		 }
+		 a:hover::after
+		 {
+		 	width:100%;
+		 }
+
+	</style>	
+</head>	
+<body>
+	<a href="https://www.sonypictures.com/movies"><img class="a"src="2.jpg">
+	<a href="https://www.marvel.com/movies"><img class="b"src="3.jpg">
+	<a href="https://www.pixar.com/"><img class="c"src="4.png">
+	<p><a  id="z" href="site.html">HOME</a></p>	
+</body>
+</html>	

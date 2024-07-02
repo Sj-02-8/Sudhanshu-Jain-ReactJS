@@ -1,0 +1,236 @@
+#z
+{
+	height:10%;
+	width:10%;
+	position:absolute;
+	top:12%;
+	left:93%;
+	transform:translate(-50%,-50%);
+}
+body
+{
+	background-image:url("1.png");
+	height:100vh;
+	background-size:cover;
+	background-position:center;
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("1.jpg");
+}
+
+#k
+{
+	border-right:1px solid white;
+	height:270px;
+	position:absolute;
+	top:44%;
+	left:96.9%;
+	transform:translate(-50%,-50%);
+}
+
+
+img.g
+{
+	height:4%;
+	width:2%;
+	position:absolute;
+	top:71%;
+	left:97%;
+	transform:translate(-50%,-50%);
+}
+img.h
+{
+	height:4%;
+	width:2%;
+	position:absolute;
+	top:85%;
+	left:97%;
+	transform:translate(-50%,-50%);
+}
+img.i
+{
+	height:4%;
+	width:2%;
+	position:absolute;
+	top:78%;
+	left:97%;
+	transform:translate(-50%,-50%);
+}
+img.j
+{
+	height:4%;
+	width:2%;
+	position:absolute;
+	top:91%;
+	left:97%;
+	transform:translate(-50%,-50%);
+}
+img.g:hover
+{
+	height:7%;
+	width:3%;
+	transition:0.5s;
+}
+img.h:hover
+{
+	height:6%;
+	width:3%;
+	transition:0.5s;
+}
+img.i:hover
+{
+	height:6%;
+	width:3%;
+	transition:0.5s;
+}
+img.j:hover
+{
+	height:6%;
+	width:3%;
+	transition:0.5s;
+}
+
+
+img.f
+{
+	height:25%;
+	width:25%;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+}
+img.f:hover
+{
+	height:30%;
+	width:30%;
+	transition:1s;
+
+}
+
+
+ul,li,.b,.c,.d,.e
+{
+	color: white;
+	list-style-type: none;
+	float: left;
+	display: inline-block;
+	margin-top:5px;
+}
+.b,.c,.d,.e
+{
+	color: white;
+	font-family:cursive;
+	margin: 7px;
+	border: 2px solid solid transparent ;
+	padding: 5px;
+}
+a.b
+{
+	color:white;
+	text-decoration: none;
+}
+a.b:link
+{
+	color: white;
+}
+a.b:hover
+{
+	transition: 0.3s;
+}
+a.b::after
+{
+	content:'';
+	width:0%;
+	height:2px;
+	background:red;
+	display:block;
+	margin:auto;
+	transition:0.3s;
+}
+a.b:hover::after
+{
+	width:100%;
+}
+a.c
+{
+	color:white;
+	text-decoration: none;
+}
+a.c:link
+{
+	color: white;
+}
+a.c:hover
+{
+	transition: 0.3s;
+}
+a.c::after
+{
+	content:'';
+	width:0%;
+	height:2px;
+	background:red;
+	display:block;
+	margin:auto;
+	transition:0.3s;
+}
+a.c:hover::after
+{
+	width:100%;
+}
+
+a.d
+{
+	color:white;
+	text-decoration: none;
+}
+a.d:link
+{
+	color: white;
+}
+a.d:hover
+{
+	transition: 0.3s;
+}
+a.d::after
+{
+	content:'';
+	width:0%;
+	height:2px;
+	background:red;
+	display:block;
+	margin:auto;
+	transition:0.3s;
+}
+a.d:hover::after
+{
+	width:100%;
+}
+
+a.e
+{
+	color:white;
+	text-decoration: none;
+}
+a.e:link
+{
+	color: white;
+}
+a.e:hover
+{
+	transition: 0.3s;
+}
+a.e::after
+{
+	content:'';
+	width:0%;
+	height:2px;
+	background:red;
+	display:block;
+	margin:auto;
+	transition:0.3s;
+}
+a.e:hover::after
+{
+	width:100%;
+}
+
