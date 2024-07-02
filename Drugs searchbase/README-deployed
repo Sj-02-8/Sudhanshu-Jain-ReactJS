@@ -1,1 +1,2 @@
-npm run new -build 
+npm run build
+then deployee the new build folder which is created after runnning this command.
