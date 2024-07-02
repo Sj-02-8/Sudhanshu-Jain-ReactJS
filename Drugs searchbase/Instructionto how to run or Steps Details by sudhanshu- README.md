@@ -23,14 +23,14 @@ then to start visual execute this:
    
    Screen shot of dependencies. downloading:
    
-   ![image](https://github.com/Sj-02-8/Sudhanshu-Jain----Xogene-React-Assessment/assets/125282717/c6abb9b6-aa18-49c0-83d9-ccc481ac5d55)
+   ![image](https://github.com/Sj-02-8/Sudhanshu-Jain/assets/125282717/c6abb9b6-aa18-49c0-83d9-ccc481ac5d55)
 
 
    Screen shot of React project creation successful:
    
-![image](https://github.com/Sj-02-8/Sudhanshu-Jain----Xogene-React-Assessment/assets/125282717/17932c96-1729-403e-860a-a0019ef34e2c)
+![image](https://github.com/Sj-02-8/Sudhanshu-Jain/assets/125282717/17932c96-1729-403e-860a-a0019ef34e2c)
 
-![image](https://github.com/Sj-02-8/Sudhanshu-Jain----Xogene-React-Assessment/assets/125282717/fe624c13-ea06-40be-b277-71e03531f9af)
+![image](https://github.com/Sj-02-8/Sudhanshu-Jain/assets/125282717/fe624c13-ea06-40be-b277-71e03531f9af)
 
 
 Once did executed :  
@@ -39,7 +39,7 @@ Once did executed :
 
 We will see something like this
 
-![image](https://github.com/Sj-02-8/Sudhanshu-Jain----Xogene-React-Assessment/assets/125282717/9f791753-45cf-44f1-9d63-136664aadc26)
+![image](https://github.com/Sj-02-8/Sudhanshu-Jain/assets/125282717/9f791753-45cf-44f1-9d63-136664aadc26)
 
 
 
@@ -76,7 +76,7 @@ AFTER CREATING YOUR REACT PROJECT, YOU ONLY HAVE TO REPLACE YOUR FILES UNDER SRC
 
 For the scenario we were give files would look like this. Can compare it with above folder heirarchy:-
 
-![image](https://github.com/Sj-02-8/Sudhanshu-Jain----Xogene-React-Assessment/assets/125282717/359d9ec6-c554-4d22-bf3d-760d03530ca7)
+![image](https://github.com/Sj-02-8/Sudhanshu-Jain/assets/125282717/359d9ec6-c554-4d22-bf3d-760d03530ca7)
 
 
 
@@ -90,26 +90,26 @@ For the scenario we were give files would look like this. Can compare it with ab
    
 -npm start:
 
-![image](https://github.com/Sj-02-8/Sudhanshu-Jain----Xogene-React-Assessment/assets/125282717/69ffdddf-398e-4236-869d-2edd808f756e)
+![image](https://github.com/Sj-02-8/Sudhanshu-Jain/assets/125282717/69ffdddf-398e-4236-869d-2edd808f756e)
 
-![image](https://github.com/Sj-02-8/Sudhanshu-Jain----Xogene-React-Assessment/assets/125282717/1001d265-1cb3-4a5b-9fd6-5829e6ec74ff)
+![image](https://github.com/Sj-02-8/Sudhanshu-Jain/assets/125282717/1001d265-1cb3-4a5b-9fd6-5829e6ec74ff)
 
-![image](https://github.com/Sj-02-8/Sudhanshu-Jain----Xogene-React-Assessment/assets/125282717/4e7aeebc-4934-420a-ae3e-4181dee0178d)
-
-
-
-
-![image](https://github.com/Sj-02-8/Sudhanshu-Jain----Xogene-React-Assessment/assets/125282717/991b3d21-2e28-4992-9af4-28ee254dee70)
+![image](https://github.com/Sj-02-8/Sudhanshu-Jain/assets/125282717/4e7aeebc-4934-420a-ae3e-4181dee0178d)
 
 
 
-search:
+
+![image](https://github.com/Sj-02-8/Sudhanshu-Jain/assets/125282717/991b3d21-2e28-4992-9af4-28ee254dee70)
+
+
+
+SEARCH:--
 
 MOCK API ARE: 
 Zyrtec
 Aspirin
 
-![image](https://github.com/Sj-02-8/Sudhanshu-Jain----Xogene-React-Assessment/assets/125282717/14e4c044-9a59-4d53-9e2e-7c9ef6a90ed5)
+![image](https://github.com/Sj-02-8/Sudhanshu-Jain/assets/125282717/14e4c044-9a59-4d53-9e2e-7c9ef6a90ed5)
 
 
 6)  And push it to the git by doing the following:
